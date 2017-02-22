@@ -86,19 +86,19 @@
             "appSettings": [
               {
                 "name": "mlApiKey",
-                "value": "[parameters('mlApiKey')]"
+                "value": "SkJ4mJAOqGroBvNC4HCgv7nQgtECTVS+Z8CTAtWfRlRGXnUjjGXB+tEXuvT2Flvo+DnvO7WJxUafMlUgTZQeNg=="
               },
               {
                 "name": "mlWorkspaceId",
-                "value": "[parameters('mlWorkspaceId')]"
+                "value": "a716a82859014ca29f26f4307fd79643"
               },
               {
                 "name": "mlServiceId",
-                "value": "[parameters('mlServiceId')]"
+                "value": "cc1b6ad29e4d4c7eb44dccd7fc9be6ff"
               },
               {
                 "name": "weatherApiKey",
-                "value": "[parameters('weatherApiKey')]"
+                "value": "58e1de8f516c61f0"
               }
             ]
           }
